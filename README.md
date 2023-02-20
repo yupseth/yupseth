@@ -1,6 +1,11 @@
 # About Me:
 🚩 I'm a self-taught front-end developer<br>🌱 I’m currently learning React<br>✨ I’m currently working on my first React app<br>
 
+## Courses:
+✅ React - The Complete Guide (incl Hooks, React Router, Redux) -- Maximilian Schwarzmüller
+✅ The Complete JavaScript Course 2022: From Zero to Expert! -- Jonas Schmedtmann
+✅ The Odin Project
+
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristina-șuică-239094267/) 
