@@ -2,9 +2,7 @@
 🚩 I'm a self-taught front-end developer<br>🌱 I’m currently learning React<br>✨ I’m currently working on my first React app<br>
 
 ## Courses:
-✅ React - The Complete Guide (incl Hooks, React Router, Redux) -- Maximilian Schwarzmüller
-✅ The Complete JavaScript Course 2022: From Zero to Expert! -- Jonas Schmedtmann
-✅ The Odin Project
+✅ React - The Complete Guide (incl Hooks, React Router, Redux) -- Maximilian Schwarzmüller<br>✅ The Complete JavaScript Course 2022: From Zero to Expert! -- Jonas Schmedtmann<br>✅ The Odin Project
 
 
 ## Socials:
