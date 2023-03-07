@@ -1,4 +1,4 @@
-<img src="https://github.com/yupseth/yupseth/blob/main/banner.gif" height="250"/>
+<img src="https://github.com/yupseth/yupseth/blob/main/banner.gif" height="300" width="600"/>
 
 # About Me:
 🚩 I'm a self-taught front-end developer<br>🌱 I’m currently learning React<br>✨ I’m currently working on my first React app<br>
